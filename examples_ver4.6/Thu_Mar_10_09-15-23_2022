@@ -1,0 +1,3 @@
+,_IO_EM_DI_00: Button,_IO_EM_DI_01: Capactive,_IO_EM_DI_02: Inductive,_IO_EM_DI_03,_IO_EM_AI_00: Pressure,_IO_EM_AI_01: Key,TEMP_Scaled_Value,_IO_P1_AI_02,_IO_P1_AI_03,_IO_P3_AO_00,_IO_P3_AO_01,_IO_EM_DO_08 Lamp
+Thu Mar 10 09:15:21 2022,False,False,False,False,20919,32923,77.65245819091797,,,31454,31454,False
+Thu Mar 10 09:15:23 2022,False,False,False,False,20915,32901,77.55770111083984,,,31454,31454,False
